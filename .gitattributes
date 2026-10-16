@@ -1,3 +1,0 @@
-* linguist-vendored
-*.kt linguist-language=Kotlin
-*.java linguist-language=Kotlin
